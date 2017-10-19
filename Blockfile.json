@@ -1,4 +1,10 @@
 {
   "require": [
+    "jenkins",
+    "drone",
+    "codecommit",
+    "github",
+    "inspect",
+    "kitchen"
   ]
 }
