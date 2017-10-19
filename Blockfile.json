@@ -4,7 +4,7 @@
     "drone",
     "codecommit",
     "github",
-    "inspect",
+    "inspec",
     "kitchen"
   ]
 }
