@@ -1,11 +1,11 @@
 {
   "require": [
     "jenkins",
-    "drone",
     "codecommit",
     "github",
     "inspec",
-    "kitchen"
+    "kitchen",
+    "travis"
   ],
   "versions": {}
 }
