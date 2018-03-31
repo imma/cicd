@@ -4,7 +4,6 @@
     "codecommit",
     "github",
     "inspec",
-    "kitchen",
     "travis"
   ],
   "versions": {}
