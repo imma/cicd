@@ -4,7 +4,8 @@
     "codecommit",
     "github",
     "inspec",
-    "travis"
+    "travis",
+    "drone"
   ],
   "versions": {}
 }
