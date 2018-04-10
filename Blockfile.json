@@ -1,6 +1,5 @@
 {
   "require": [
-    "jenkins",
     "codecommit",
     "github",
     "inspec",
