@@ -3,7 +3,8 @@
     "codecommit",
     "github",
     "inspec",
-    "drone"
+    "drone",
+    "kitchen"
   ],
   "versions": {}
 }
